@@ -9,13 +9,14 @@
 Create a discord bot, then insert the token from this bot into bot.js, line 8. Then run start.bat
 
 **Command**
-
+```
 /connect (ip:port) - Connect to the specified server
 /send (your_msg_or_command) - Sends the specified message or command to the chat
 /check - Shows all game chat
 /reuser (name) - Changes the bot's name and rejoins the server
 /reserver (ip:port) - Changes the server and rejoins the new server
 /walk (x, y, z) - The bot begins to go to the specified coordinates
+```
 
 **Install**
 
